@@ -1,4 +1,5 @@
 import Arrays.Sorting.BubbleSort;
+import Arrays.Sorting.MergeSort;
 
 public class MainClass {
 
@@ -8,7 +9,8 @@ public class MainClass {
      * @param args
      */
     public static void main(String[] args) {
-        BubbleSort.execute();
+        //BubbleSort.execute();
+        //MergeSort.execute();
     }
 
 }

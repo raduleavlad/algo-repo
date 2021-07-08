@@ -12,8 +12,8 @@ public class BubbleSort {
 
         System.out.println("Input:");
         ArrayHelper.printArrayAndMoveToNewLine(a);
-
         System.out.println("Bubble sort result:");
+
         sortBubble(a);
         ArrayHelper.printArrayAndMoveToNewLine(a);
     }
