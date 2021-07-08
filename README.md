@@ -1,1 +1,1 @@
-# algo-repo
+# Repo folosit pentru algoritmi
