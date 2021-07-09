@@ -10,7 +10,7 @@ public class MainClass {
      */
     public static void main(String[] args) {
         //BubbleSort.execute();
-        //MergeSort.execute();
+        MergeSort.execute();
     }
 
 }
